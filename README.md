@@ -1,5 +1,9 @@
 ## Varnish Configuration Templates (boilerplate)
 
+### 🚀 Need help implementing Varnish?
+
+I'm available [for consultancy](https://ma.ttias.be/consultancy/) if you're struggling with implementing Varnish and speeding up your site. Don't be afraid to [reach out!](https://ma.ttias.be/consultancy/)
+
 ### Installation
 
 You can use the configuration templates found in this repository to quickly get started with a complete Varnish configuration that offers support for most functionality. Start of by looking into "default.vcl" and taking the bits you need, copy it to your own default.vcl.
@@ -30,6 +34,4 @@ Basic troubleshooting:
 * [Reload Varnish VCL without losing cache data](https://ma.ttias.be/reload-varnish-vcl-without-losing-cache-data/)
 * [Combine Apache'S HTTP authentication with Varnish IP whitelisting](https://ma.ttias.be/apache-http-authentication-with-x-forwarded-for-ip-whitelisting-in-varnish/)
 
-[Click here for a Varnish 3 VCL config template](https://github.com/mattiasgeniar/varnish-3.0-configuration-templates)
-
-[Click here for a Varnish 4 VCL config template](https://github.com/mattiasgeniar/varnish-4.0-configuration-templates)
+There is already a newer version out: [Varnish 6 VCL config template](https://github.com/mattiasgeniar/varnish-6.0-configuration-templates).
